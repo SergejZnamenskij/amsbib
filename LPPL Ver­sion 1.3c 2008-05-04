@@ -1,0 +1,108 @@
+The LATEX Project Public License
+LPPL Version 1.3c 2008-05-04
+Copyright 1999 2002-2008 LATEX3 Project
+Everyone is allowed to dis­tribute ver­ba­tim copies of this li­cense doc­u­ment, but mod­i­fi­ca­tion of it is not allowed.
+PREAMBLE
+The LATEX Project Public Li­cense (LPPL) is the pri­mary li­cense un­der which the LATEX ker­nel and the base LATEX pack­ages are dis­tributed.
+You may use this li­cense for any work of which you hold the copy­right and which you wish to dis­tribute. This li­cense may be par­tic­u­larly suit­able if your work is TeX-re­lated (such as a LATEX pack­age), but it is writ­ten in such a way that you can use it even if your work is un­re­lated to TeX.
+The sec­tion “WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE”, be­low, gives in­struc­tions, ex­am­ples, and rec­om­men­da­tions for au­thors who are con­sid­er­ing dis­tribut­ing their works un­der this li­cense.
+This li­cense gives con­di­tions un­der which a work may be dis­tributed and mod­i­fied, as well as con­di­tions un­der which mod­i­fied ver­sions of that work may be dis­tributed.
+We, the LATEX3 Project, be­lieve that the con­di­tions be­low give you the free­dom to make and dis­tribute mod­i­fied ver­sions of your work that con­form with what­ever tech­ni­cal spec­i­fi­ca­tions you wish while main­tain­ing the avail­abil­ity, in­tegrity, and re­li­a­bil­ity of that work. If you do not see how to achieve your goal while meet­ing these con­di­tions, then read the doc­u­ment “cfg­guide.tex” and “mod­guide.tex” in the base LATEX dis­tri­bu­tion for sug­ges­tions.
+DEFINITIONS
+In this li­cense doc­u­ment the fol­low­ing terms are used:
+“Work”
+Any work be­ing dis­tributed un­der this Li­cense.
+“Derived Work”
+Any work that un­der any ap­pli­ca­ble law is de­rived from the Work.
+“Mod­i­fi­ca­tion”
+Any pro­ce­dure that pro­duces a Derived Work un­der any ap­pli­ca­ble law – for ex­am­ple, the pro­duc­tion of a file con­tain­ing an orig­i­nal file as­so­ci­ated with the Work or a sig­nif­i­cant por­tion of such a file, ei­ther ver­ba­tim or with mod­i­fi­ca­tions and/or trans­lated into an­other lan­guage.
+“Mod­ify”
+To ap­ply any pro­ce­dure that pro­duces a Derived Work un­der any ap­pli­ca­ble law.
+“Distri­bu­tion”
+Mak­ing copies of the Work avail­able from one per­son to an­other, in whole or in part. Distri­bu­tion in­cludes (but is not lim­ited to) mak­ing any elec­tronic com­po­nents of the Work ac­ces­si­ble by file trans­fer pro­to­cols such as FTP or HTTP or by shared file sys­tems such as Sun's Net­work File Sys­tem (NFS).
+“Com­piled Work”
+A ver­sion of the Work that has been pro­cessed into a form where it is di­rectly us­able on a com­puter sys­tem. This pro­cess­ing may in­clude us­ing in­stal­la­tion fa­cil­i­ties pro­vided by the Work, trans­for­ma­tions of the Work, copy­ing of com­po­nents of the Work, or other ac­tiv­i­ties. Note that mod­i­fi­ca­tion of any in­stal­la­tion fa­cil­i­ties pro­vided by the Work con­sti­tutes mod­i­fi­ca­tion of the Work.
+“Cur­rent Main­tainer”
+A per­son or per­sons nom­i­nated as such within the Work. If there is no such ex­plicit nom­i­na­tion then it is the “Copy­right Holder” un­der any ap­pli­ca­ble law.
+“Base In­ter­preter”
+A pro­gram or pro­cess that is nor­mally needed for run­ning or in­ter­pret­ing a part or the whole of the Work.
+A Base In­ter­preter may de­pend on ex­ter­nal com­po­nents but these are not con­sid­ered part of the Base In­ter­preter pro­vided that each ex­ter­nal com­po­nent clearly iden­ti­fies it­self when­ever it is used in­ter­ac­tively. Un­less ex­plic­itly spec­i­fied when ap­ply­ing the li­cense to the Work, the only ap­pli­ca­ble Base In­ter­preter is a “LATEX-For­mat” or in the case of files be­long­ing to the “LATEX-for­mat” a pro­gram im­ple­ment­ing the “TEX lan­guage”.
+CONDITIONS ON DISTRIBUTION AND MODIFICATION
+Ac­tiv­i­ties other than dis­tri­bu­tion and/or mod­i­fi­ca­tion of the Work are not cov­ered by this li­cense; they are out­side its scope. In par­tic­u­lar, the act of run­ning the Work is not re­stricted and no re­quire­ments are made con­cern­ing any of­fers of sup­port for the Work.
+You may dis­tribute a com­plete, un­mod­i­fied copy of the Work as you re­ceived it. Distri­bu­tion of only part of the Work is con­sid­ered mod­i­fi­ca­tion of the Work, and no right to dis­tribute such a Derived Work may be as­sumed un­der the terms of this clause.
+You may dis­tribute a Com­piled Work that has been gen­er­ated from a com­plete, un­mod­i­fied copy of the Work as dis­tributed un­der Clause 2 above, as long as that Com­piled Work is dis­tributed in such a way that the re­cip­i­ents may in­stall the Com­piled Work on their sys­tem ex­actly as it would have been in­stalled if they gen­er­ated a Com­piled Work di­rectly from the Work.
+If you are the Cur­rent Main­tainer of the Work, you may, with­out re­stric­tion, mod­ify the Work, thus cre­at­ing a Derived Work. You may also dis­tribute the Derived Work with­out re­stric­tion, in­clud­ing Com­piled Works gen­er­ated from the Derived Work. Derived Works dis­tributed in this man­ner by the Cur­rent Main­tainer are con­sid­ered to be up­dated ver­sions of the Work.
+If you are not the Cur­rent Main­tainer of the Work, you may mod­ify your copy of the Work, thus cre­at­ing a Derived Work based on the Work, and com­pile this Derived Work, thus cre­at­ing a Com­piled Work based on the Derived Work.
+If you are not the Cur­rent Main­tainer of the Work, you may dis­tribute a Derived Work pro­vided the fol­low­ing con­di­tions are met for ev­ery com­po­nent of the Work un­less that com­po­nent clearly states in the copy­right no­tice that it is ex­empt from that con­di­tion. Only the Cur­rent Main­tainer is al­lowed to add such state­ments of ex­emp­tion to a com­po­nent of the Work.
+If a com­po­nent of this Derived Work can be a di­rect re­place­ment for a com­po­nent of the Work when that com­po­nent is used with the Base In­ter­preter, then, wher­ever this com­po­nent of the Work iden­ti­fies it­self to the user when used in­ter­ac­tively with that Base In­ter­preter, the re­place­ment com­po­nent of this Derived Work clearly and un­am­bigu­ously iden­ti­fies it­self as a mod­i­fied ver­sion of this com­po­nent to the user when used in­ter­ac­tively with that Base In­ter­preter.
+Every com­po­nent of the Derived Work con­tains promi­nent no­tices de­tail­ing the na­ture of the changes to that com­po­nent, or a promi­nent ref­er­ence to an­other file that is dis­tributed as part of the Derived Work and that con­tains a com­plete and ac­cu­rate log of the changes.
+No in­for­ma­tion in the Derived Work im­plies that any per­sons, in­clud­ing (but not lim­ited to) the au­thors of the orig­i­nal ver­sion of the Work, pro­vide any sup­port, in­clud­ing (but not lim­ited to) the re­port­ing and han­dling of er­rors, to re­cip­i­ents of the Derived Work un­less those per­sons have stated ex­plic­itly that they do pro­vide such sup­port for the Derived Work.
+You dis­tribute at least one of the fol­low­ing with the Derived Work:
+A com­plete, un­mod­i­fied copy of the Work; if your dis­tri­bu­tion of a mod­i­fied com­po­nent is made by of­fer­ing ac­cess to copy the mod­i­fied com­po­nent from a des­ig­nated place, then of­fer­ing equiv­a­lent ac­cess to copy the Work from the same or some sim­i­lar place meets this con­di­tion, even though third par­ties are not com­pelled to copy the Work along with the mod­i­fied com­po­nent;
+In­for­ma­tion that is suf­fi­cient to ob­tain a com­plete, un­mod­i­fied copy of the Work.
+If you are not the Cur­rent Main­tainer of the Work, you may dis­tribute a Com­piled Work gen­er­ated from a Derived Work, as long as the Derived Work is dis­tributed to all re­cip­i­ents of the Com­piled Work, and as long as the con­di­tions of Clause 6, above, are met with re­gard to the Derived Work.
+The con­di­tions above are not in­tended to pro­hibit, and hence do not ap­ply to, the mod­i­fi­ca­tion, by any method, of any com­po­nent so that it be­comes iden­ti­cal to an up­dated ver­sion of that com­po­nent of the Work as it is dis­tributed by the Cur­rent Main­tainer un­der Clause 4, above.
+Distri­bu­tion of the Work or any Derived Work in an al­ter­na­tive for­mat, where the Work or that Derived Work (in whole or in part) is then pro­duced by ap­ply­ing some pro­cess to that for­mat, does not re­lax or nul­lify any sec­tions of this li­cense as they per­tain to the re­sults of ap­ply­ing that pro­cess.
+A Derived Work may be dis­tributed un­der a dif­fer­ent li­cense pro­vided that li­cense it­self hon­ors the con­di­tions listed in Clause 6 above, in re­gard to the Work, though it does not have to honor the rest of the con­di­tions in this li­cense.
+If a Derived Work is dis­tributed un­der a dif­fer­ent li­cense, that Derived Work must pro­vide suf­fi­cient doc­u­men­ta­tion as part of it­self to al­low each re­cip­i­ent of that Derived Work to honor the re­stric­tions in Clause 6 above, con­cern­ing changes from the Work.
+This li­cense places no re­stric­tions on works that are un­re­lated to the Work, nor does this li­cense place any re­stric­tions on ag­gre­gat­ing such works with the Work by any means.
+Noth­ing in this li­cense is in­tended to, or may be used to, pre­vent com­plete com­pli­ance by all par­ties with all ap­pli­ca­ble laws.
+NO WARRANTY
+There is no war­ranty for the Work. Ex­cept when oth­er­wise stated in writ­ing, the Copy­right Holder pro­vides the Work “as is”, with­out war­ranty of any kind, ei­ther ex­pressed or im­plied, in­clud­ing, but not lim­ited to, the im­plied war­ranties of mer­chantabil­ity and fit­ness for a par­tic­u­lar pur­pose. The en­tire risk as to the qual­ity and per­for­mance of the Work is with you. Should the Work prove de­fec­tive, you as­sume the cost of all nec­es­sary ser­vic­ing, re­pair, or cor­rec­tion.
+In no event un­less re­quired by ap­pli­ca­ble law or agreed to in writ­ing will The Copy­right Holder, or any au­thor named in the com­po­nents of the Work, or any other party who may dis­tribute and/or mod­ify the Work as per­mit­ted above, be li­able to you for dam­ages, in­clud­ing any gen­eral, spe­cial, in­ci­den­tal or con­se­quen­tial dam­ages aris­ing out of any use of the Work or out of in­abil­ity to use the Work (in­clud­ing, but not lim­ited to, loss of data, data be­ing ren­dered in­ac­cu­rate, or losses sus­tained by any­one as a re­sult of any fail­ure of the Work to op­er­ate with any other pro­grams), even if the Copy­right Holder or said au­thor or said other party has been ad­vised of the pos­si­bil­ity of such dam­ages.
+MAINTENANCE OF THE WORK
+The Work has the sta­tus “au­thor-main­tained” if the Copy­right Holder ex­plic­itly and promi­nently states near the pri­mary copy­right no­tice in the Work that the Work can only be main­tained by the Copy­right Holder or sim­ply that it is “au­thor-main­tained”.
+The Work has the sta­tus “main­tained” if there is a Cur­rent Main­tainer who has in­di­cated in the Work that they are will­ing to re­ceive er­ror re­ports for the Work (for ex­am­ple, by sup­ply­ing a valid e-mail ad­dress). It is not re­quired for the Cur­rent Main­tainer to ac­knowl­edge or act upon these er­ror re­ports.
+The Work changes from sta­tus “main­tained” to “un­main­tained” if there is no Cur­rent Main­tainer, or the per­son stated to be Cur­rent Main­tainer of the work can­not be reached through the in­di­cated means of com­mu­ni­ca­tion for a pe­riod of six months, and there are no other sig­nif­i­cant signs of ac­tive main­te­nance.
+You can be­come the Cur­rent Main­tainer of the Work by agree­ment with any ex­ist­ing Cur­rent Main­tainer to take over this role.
+If the Work is un­main­tained, you can be­come the Cur­rent Main­tainer of the Work through the fol­low­ing steps:
+Make a rea­son­able at­tempt to trace the Cur­rent Main­tainer (and the Copy­right Holder, if the two dif­fer) through the means of an In­ter­net or sim­i­lar search.
+If this search is suc­cess­ful, then en­quire whether the Work is still main­tained.
+If it is be­ing main­tained, then ask the Cur­rent Main­tainer to up­date their com­mu­ni­ca­tion data within one month.
+If the search is un­suc­cess­ful or no ac­tion to re­sume ac­tive main­te­nance is taken by the Cur­rent Main­tainer, then an­nounce within the per­ti­nent com­mu­nity your in­ten­tion to take over main­te­nance. (If the Work is a LATEX work, this could be done, for ex­am­ple, by post­ing to comp.text.tex.)
+If the Cur­rent Main­tainer is reach­able and agrees to pass main­te­nance of the Work to you, then this takes ef­fect im­me­di­ately upon an­nounce­ment.
+If the Cur­rent Main­tainer is not reach­able and the Copy­right Holder agrees that main­te­nance of the Work be passed to you, then this takes ef­fect im­me­di­ately upon an­nounce­ment.
+If you make an “in­ten­tion an­nounce­ment” as de­scribed in 2b. above and af­ter three months your in­ten­tion is chal­lenged nei­ther by the Cur­rent Main­tainer nor by the Copy­right Holder nor by other peo­ple, then you may ar­range for the Work to be changed so as to name you as the (new) Cur­rent Main­tainer.
+If the pre­vi­ously un­reach­able Cur­rent Main­tainer be­comes reach­able once more within three months of a change com­pleted un­der the terms of 3b) or 4), then that Cur­rent Main­tainer must be­come or re­main the Cur­rent Main­tainer upon re­quest pro­vided they then up­date their com­mu­ni­ca­tion data within one month.
+A change in the Cur­rent Main­tainer does not, of it­self, al­ter the fact that the Work is dis­tributed un­der the LPPL li­cense.
+If you be­come the Cur­rent Main­tainer of the Work, you should im­me­di­ately pro­vide, within the Work, a promi­nent and un­am­bigu­ous state­ment of your sta­tus as Cur­rent Main­tainer. You should also an­nounce your new sta­tus to the same per­ti­nent com­mu­nity as in 2b) above.
+WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE
+This sec­tion con­tains im­por­tant in­struc­tions, ex­am­ples, and rec­om­men­da­tions for au­thors who are con­sid­er­ing dis­tribut­ing their works un­der this li­cense. Th­ese au­thors are ad­dressed as “you” in this sec­tion.
+Choos­ing This Li­cense or Another Li­cense
+If for any part of your work you want or need to use *dis­tri­bu­tion* con­di­tions that dif­fer sig­nif­i­cantly from those in this li­cense, then do not re­fer to this li­cense any­where in your work but, in­stead, dis­tribute your work un­der a dif­fer­ent li­cense. You may use the text of this li­cense as a model for your own li­cense, but your li­cense should not re­fer to the LPPL or oth­er­wise give the im­pres­sion that your work is dis­tributed un­der the LPPL.
+The doc­u­ment “mod­guide.tex” in the base LATEX dis­tri­bu­tion ex­plains the mo­ti­va­tion be­hind the con­di­tions of this li­cense. It ex­plains, for ex­am­ple, why dis­tribut­ing LATEX un­der the GNU Gen­eral Public Li­cense (GPL) was con­sid­ered in­ap­pro­pri­ate. Even if your work is un­re­lated to LATEX, the dis­cus­sion in “mod­guide.tex” may still be rel­e­vant, and au­thors in­tend­ing to dis­tribute their works un­der any li­cense are en­cour­aged to read it.
+A Rec­om­men­da­tion on Mod­i­fi­ca­tion Without Distri­bu­tion
+It is wise never to mod­ify a com­po­nent of the Work, even for your own per­sonal use, with­out also meet­ing the above con­di­tions for dis­tribut­ing the mod­i­fied com­po­nent. While you might in­tend that such mod­i­fi­ca­tions will never be dis­tributed, of­ten this will hap­pen by ac­ci­dent – you may for­get that you have mod­i­fied that com­po­nent; or it may not oc­cur to you when al­low­ing oth­ers to ac­cess the mod­i­fied ver­sion that you are thus dis­tribut­ing it and vi­o­lat­ing the con­di­tions of this li­cense in ways that could have le­gal im­pli­ca­tions and, worse, cause prob­lems for the com­mu­nity. It is there­fore usu­ally in your best in­ter­est to keep your copy of the Work iden­ti­cal with the pub­lic one. Many works pro­vide ways to con­trol the be­hav­ior of that work with­out al­ter­ing any of its li­censed com­po­nents.
+How to Use This Li­cense
+To use this li­cense, place in each of the com­po­nents of your work both an ex­plicit copy­right no­tice in­clud­ing your name and the year the work was au­thored and/or last sub­stan­tially mod­i­fied. In­clude also a state­ment that the dis­tri­bu­tion and/or mod­i­fi­ca­tion of that com­po­nent is con­strained by the con­di­tions in this li­cense.
+Here is an ex­am­ple of such a no­tice and state­ment:
+  %% pig.dtx
+  %% Copyright 2005 M. Y. Name
+  %
+  % This work may be distributed and/or modified under the
+  % conditions of the LaTeX Project Public License, either version 1.3
+  % of this license or (at your option) any later version.
+  % The latest version of this license is in
+  %   http://www.latex-project.org/lppl.txt
+  % and version 1.3 or later is part of all distributions of LaTeX
+  % version 2005/12/01 or later.
+  %
+  % This work has the LPPL maintenance status “maintained”.
+  % 
+  % The Current Maintainer of this work is M. Y. Name.
+  %
+  % This work consists of the files pig.dtx and pig.ins
+  % and the derived file pig.sty.
+Given such a no­tice and state­ment in a file, the con­di­tions given in this li­cense doc­u­ment would ap­ply, with the “Work” re­fer­ring to the three files “pig.dtx”, “pig.ins”, and “pig.sty” (the last be­ing gen­er­ated from “pig.dtx” us­ing “pig.ins”), the “Base In­ter­preter” re­fer­ring to any “LATEX-For­mat”, and both “Copy­right Holder” and “Cur­rent Main­tainer” re­fer­ring to the per­son “M. Y. Name”.
+If you do not want the Main­te­nance sec­tion of LPPL to ap­ply to your Work, change “main­tained” above into “au­thor-main­tained”. How­ever, we rec­om­mend that you use “main­tained”, as the Main­te­nance sec­tion was added in or­der to en­sure that your Work re­mains use­ful to the com­mu­nity even when you can no longer main­tain and sup­port it your­self.
+Derived Works That Are Not Re­place­ments
+Sev­eral clauses of the LPPL spec­ify means to pro­vide re­li­a­bil­ity and sta­bil­ity for the user com­mu­nity. They there­fore con­cern them­selves with the case that a Derived Work is in­tended to be used as a (com­pat­i­ble or in­com­pat­i­ble) re­place­ment of the orig­i­nal Work. If this is not the case (e.g., if a few lines of code are reused for a com­pletely dif­fer­ent task), then clauses 6b and 6d shall not ap­ply.
+Im­por­tant Rec­om­men­da­tions
+Defin­ing What Con­sti­tutes the Work
+The LPPL re­quires that dis­tri­bu­tions of the Work con­tain all the files of the Work. It is there­fore im­por­tant that you pro­vide a way for the li­censee to de­ter­mine which files con­sti­tute the Work. This could, for ex­am­ple, be achieved by ex­plic­itly list­ing all the files of the Work near the copy­right no­tice of each file or by us­ing a line such as:
+    % This work consists of all files listed in manifest.txt.
+in that place. In the ab­sence of an un­equiv­o­cal list it might be im­pos­si­ble for the li­censee to de­ter­mine what is con­sid­ered by you to com­prise the Work and, in such a case, the li­censee would be en­ti­tled to make rea­son­able con­jec­tures as to which files com­prise the Work.
+Statis­tics
+140 of the 5412 packages on CTAN are using this license.
+Notes
+Attention Please check the soft­ware's li­cense be­fore us­ing the soft­ware.
